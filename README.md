@@ -1,2 +1,2 @@
 # ex2
-Assignment in the language c
+programming task in c
